@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-14T08:42:56 IST" name="Suite" finished-at="2022-12-14T08:44:12 IST" duration-ms="76432">
+    <groups>
+    </groups>
+    <test started-at="2022-12-14T08:42:56 IST" name="Test" finished-at="2022-12-14T08:44:12 IST" duration-ms="76432">
+      <class name="com.Restaurant.Testcases.VerifyUserLoginTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.Restaurant.Testcases.VerifyUserLoginTest@45099dd3]" started-at="2022-12-14T08:42:55 IST" name="beforeSuite" finished-at="2022-12-14T08:42:56 IST" duration-ms="619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.Restaurant.Testcases.VerifyUserLoginTest@45099dd3]" started-at="2022-12-14T08:42:56 IST" name="loadConfig" finished-at="2022-12-14T08:42:56 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:com.Restaurant.Testcases.VerifyUserLoginTest@45099dd3]" started-at="2022-12-14T08:42:57 IST" name="launchApp" finished-at="2022-12-14T08:43:10 IST" duration-ms="12954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="VerifyInvalidUserLogin(java.lang.String,java.lang.String)[pri:0, instance:com.Restaurant.Testcases.VerifyUserLoginTest@45099dd3]" started-at="2022-12-14T08:43:10 IST" name="VerifyInvalidUserLogin" data-provider="getInvalidLoginDetails" finished-at="2022-12-14T08:43:13 IST" duration-ms="2661" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[adm]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyInvalidUserLogin -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:com.Restaurant.Testcases.VerifyUserLoginTest@45099dd3]" started-at="2022-12-14T08:43:13 IST" name="AfterMethod" finished-at="2022-12-14T08:43:18 IST" duration-ms="4488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:com.Restaurant.Testcases.VerifyUserLoginTest@45099dd3]" started-at="2022-12-14T08:43:18 IST" name="launchApp" finished-at="2022-12-14T08:43:28 IST" duration-ms="10950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="VerifyInvalidUserLogin(java.lang.String,java.lang.String)[pri:0, instance:com.Restaurant.Testcases.VerifyUserLoginTest@45099dd3]" started-at="2022-12-14T08:43:28 IST" name="VerifyInvalidUserLogin" data-provider="getInvalidLoginDetails" finished-at="2022-12-14T08:43:32 IST" duration-ms="3685" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyInvalidUserLogin -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:com.Restaurant.Testcases.VerifyUserLoginTest@45099dd3]" started-at="2022-12-14T08:43:32 IST" name="AfterMethod" finished-at="2022-12-14T08:43:34 IST" duration-ms="1688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:com.Restaurant.Testcases.VerifyUserLoginTest@45099dd3]" started-at="2022-12-14T08:43:34 IST" name="launchApp" finished-at="2022-12-14T08:43:51 IST" duration-ms="16810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="VerifyInvalidUserLogin(java.lang.String,java.lang.String)[pri:0, instance:com.Restaurant.Testcases.VerifyUserLoginTest@45099dd3]" started-at="2022-12-14T08:43:51 IST" name="VerifyInvalidUserLogin" data-provider="getInvalidLoginDetails" finished-at="2022-12-14T08:43:52 IST" duration-ms="1704" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[adm]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyInvalidUserLogin -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:com.Restaurant.Testcases.VerifyUserLoginTest@45099dd3]" started-at="2022-12-14T08:43:52 IST" name="AfterMethod" finished-at="2022-12-14T08:43:53 IST" duration-ms="584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:com.Restaurant.Testcases.VerifyUserLoginTest@45099dd3]" started-at="2022-12-14T08:43:53 IST" name="launchApp" finished-at="2022-12-14T08:44:04 IST" duration-ms="11028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="VerifyValidUserLogin()[pri:0, instance:com.Restaurant.Testcases.VerifyUserLoginTest@45099dd3]" started-at="2022-12-14T08:44:04 IST" name="VerifyValidUserLogin" finished-at="2022-12-14T08:44:12 IST" duration-ms="7564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyValidUserLogin -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:com.Restaurant.Testcases.VerifyUserLoginTest@45099dd3]" started-at="2022-12-14T08:44:12 IST" name="AfterMethod" finished-at="2022-12-14T08:44:12 IST" duration-ms="662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="Closing()[pri:0, instance:com.Restaurant.Testcases.VerifyUserLoginTest@45099dd3]" started-at="2022-12-14T08:44:12 IST" name="Closing" finished-at="2022-12-14T08:44:14 IST" duration-ms="1322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closing -->
+      </class> <!-- com.Restaurant.Testcases.VerifyUserLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

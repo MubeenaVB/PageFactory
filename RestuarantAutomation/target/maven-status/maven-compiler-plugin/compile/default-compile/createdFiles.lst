@@ -1,0 +1,15 @@
+com\Restaurant\Utilities\ExcelRead.class
+com\Restuarant\PageObjects\HomePage.class
+com\Restuarant\PageObjects\RegisterStatsGetReport.class
+com\Restuarant\PageObjects\AddWaiter.class
+com\Restuarant\PageObjects\ClientStatsGetReport.class
+com\Restuarant\PageObjects\LoginPage.class
+com\Restuarant\PageObjects\ProductStatsGetReport.class
+com\Restuarant\PageObjects\AddStore.class
+com\Restaurant\Utilities\ExtentReport.class
+com\Restaurant\Action\ActionClass.class
+com\Restaurant\Utilities\Log.class
+com\Restuarant\PageObjects\StockStatsGetReport.class
+com\Restuarant\PageObjects\ReportsPage.class
+com\Restaurant\Utilities\ListenerClass.class
+com\Restuarant\BaseClass\Baseclass.class

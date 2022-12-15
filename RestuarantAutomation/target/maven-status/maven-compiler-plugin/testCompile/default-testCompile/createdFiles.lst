@@ -1,0 +1,9 @@
+com\Restaurant\Testcases\VerifyProductStatsGetReportTest.class
+com\Restaurant\Testcases\VerifyUserLoginTest.class
+com\Restaurant\Testcases\VerifyClientStatsGetReportTest.class
+com\Restaurant\Testcases\VerifyAddStoreTest.class
+com\Restaurant\Testcases\VerifyStockStatsGetReportTest.class
+com\Restaurant\Testcases\VerifyRegisterStatsGetReportTest.class
+com\Restaurant\Testcases\VerifyReportsPageTest.class
+com\Restaurant\Testcases\VerifyAddWaiterTest.class
+com\Restaurant\Testcases\VerifyHomePageTest.class
