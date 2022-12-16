@@ -66,7 +66,7 @@ public class ReportsPage extends Baseclass {
 		boolean status = false;
 		int currentYear = Currentyear();
 
-		action.type(NextYearArrow, "Next Year");
+		action.click1(NextYearArrow, "Next Year");
 		Thread.sleep(3000);
 		String NY = CurrentYear.getText();
 		int ny = Integer.parseInt(NY);
